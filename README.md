@@ -1,2 +1,4 @@
 # firstdemo
-This is my first repository
+This is my first repositorty
+Author - Vanshika dixit 
+
